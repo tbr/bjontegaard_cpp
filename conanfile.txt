@@ -1,0 +1,5 @@
+[requires]
+eigen/3.4.0
+
+[generators]
+cmake_find_package_multi
