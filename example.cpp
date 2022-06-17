@@ -9,6 +9,7 @@
 #include "bdcpp.h"
 
 #include <cassert>
+#include <cmath>
 #include <iostream>
 
 bdcpp::value_type round(const bdcpp::value_type& v, const int digits)
